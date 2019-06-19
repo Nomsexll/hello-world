@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Hi  Dudes!
+
+I just want learn python for codeing.
